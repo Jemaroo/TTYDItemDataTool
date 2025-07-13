@@ -5,7 +5,7 @@ A tool to modify ttyd's item stats
 
 ## Updates
 
-UPDATED v1.0.0 (6/27/25): Initial Release Version
+UPDATED v1.0.0 (7/12/25): Initial Release Version
 
 <br/>
 
