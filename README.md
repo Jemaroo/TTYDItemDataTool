@@ -5,6 +5,8 @@ A tool to modify ttyd's item stats
 
 ## Updates
 
+UPDATED v1.1.0 (7/24/25): Added the ability to modify shop and item tables, added support for additional files to be read.
+
 UPDATED v1.0.0 (7/12/25): Initial Release Version
 
 <br/>
@@ -12,6 +14,8 @@ UPDATED v1.0.0 (7/12/25): Initial Release Version
 ## Additional Mentions
 
 Huge thanks to **Jdaster64** for [documentation](https://github.com/jdaster64/ttyd-utils/blob/master/docs/ttyd_structures_pseudocode.txt) on TTYD's item structures
+
+Huge thanks to **NWPlayer123** for their [decomped item tables](https://github.com/doldecomp/ttyd/blob/f3ce61550f927cfd08b1e97ff1079f9f476f4d9f/include/evt/evt_badgeshop.h)
 
 <br/>
 
