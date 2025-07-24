@@ -37,4 +37,4 @@ Huge thanks to **NWPlayer123** for their [decomped item tables](https://github.c
 <br/>
 
 ## Planned Future Features/Additions
-- Possibly add shop tables?
+- Allow changing Mystery items to work in game?
