@@ -5,6 +5,8 @@ A tool to modify ttyd's item stats
 
 ## Updates
 
+UPDATED v1.3.0 (7/26/25): Added support for Enemy Item Drop Tables.
+
 UPDATED v1.2.0 (7/25/25): Added support for Audience Item Throw Tables, and fixed a bug where HP Drain badge would appear as the item.
 
 UPDATED v1.1.0 (7/24/25): Added the ability to modify shop and item tables, and added support for additional files to be read.
