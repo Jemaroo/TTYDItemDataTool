@@ -1,0 +1,515 @@
+{
+    "File":
+    [
+        {
+            "Name": "main.dol",
+            "Items": ["Nothing", "Strange Sack", "Paper Curse", "Tube Curse", "Plane Curse", "Boat Curse", "Boots", "Super Boots", "Ultra Boots", "Hammer", "Super Hammer", "Ultra Hammer", "Castle Key 1", "Castle Key 2", "Castle Key 3", "Castle Key 4", "Red Key", "Blue Key", "Storage Key 1", "Storage Key 2", "Grotto Key", "Shop Key", "Steeple Key 1", "Steeple Key 2", "Station Key 1", "Station Key 2", "Elevator Key 1", "Elevator Key 2", "Elevator Key 3", "Card Key 1", "Card Key 2", "Card Key 3", "Card Key 4", "Black Key 1", "Black Key 2", "Black Key 3", "Black Key 4", "Star Key", "Palace Key 1", "Palace Key 2", "Palace Key 3", "Palace Key 4", "Palace Key 5", "Palace Key 6", "Palace Key 7", "Palace Key 8", "Palace Key 9", "Palace Key 10", "Palace Key 11", "House Key", "Magical Map", "Contact Lens", "Blimp Ticket", "Train Ticket", "Mailbox SP", "Super Luigi", "Super Luigi 2", "Super Luigi 3", "Super Luigi 4", "Super Luigi 5", "Cookbook", "Moon Stone", "Sun Stone", "Necklace", "Puni Orb", "Champ's Belt", "Poisoned Cake", "Superbombomb", "The Letter \"P\"", "Old Letter", "Chuckola Cola", "Skull Gem", "Gate Handle", "Wedding Ring", "Galley Pot", "Gold Ring", "Shell Earrings", "Autograph", "Ragged Diary", "Blanket", "Vital Paper", "Briefcase", "Goldbob Guide", "Unused Goldbob Guide 1", "Unused Goldbob Guide 2", "Cog", "Data Disk", "Shine Sprite", "Ultra Stone", "Bowser Upgrade Meat", "Mario Wanted Poster", "Special Card", "Platinum Card", "Gold Card", "Silver Card", "Box", "Magical Map (Larger)", "Dubious Paper", "Routing Slip", "Wrestling Magazine", "Present", "Blue Potion", "Red Potion", "Orange Potion", "Green Potion", "???", "Lottery Pick", "Battle Trunks", "Up Arrow", "Package", "Attack FX B", "???", "???", "???", "Diamond Star", "Emerald Star", "Gold Star", "Ruby Star", "Sapphire Star", "Garnet Star", "Crystal Star", "Coin", "Pianta", "Heart Pickup", "Flower Pickup", "Star Piece", "Gold Bar", "Gold Bar x3", "Thunder Bolt", "Thunder Rage", "Shooting Star", "Ice Storm", "Fire Flower", "Earth Quake", "Boo's Sheet", "Volt Shroom", "Repel Cape", "Ruin Powder", "Sleepy Sheep", "POW Block", "Stopwatch", "Dizzy Dial", "Power Punch", "Courage Shell", "HP Drain", "Trade Off", "Mini Mr. Mini", "Mr. Softener", "Mushroom", "Super Shroom", "Ultra Shroom", "Life Shroom", "Dried Shroom", "Tasty Tonic", "Honey Syrup", "Maple Syrup", "Jammin' Jelly", "Slow Shroom", "Gradual Syrup", "Hot Dog", "Cake", "Point Swap", "Fright Mask", "Mystery", "Inn Coupon", "Whacka Bump", "Coconut", "Dried Bouquet", "Mystic Egg", "Golden Leaf", "Keel Mango", "Fresh Pasta", "Cake Mix", "Hot Sauce", "Turtley Leaf", "Horsetail", "Peachy Peach", "Spite Pouch", "Koopa Curse", "Shroom Fry", "Shroom Roast", "Shroom Steak", "Mistake", "Honey Shroom", "Maple Shroom", "Jelly Shroom", "Honey Super", "Maple Super", "Jelly Super", "Honey Ultra", "Maple Ultra", "Jelly Ultra", "Spicy Soup", "Zess Dinner", "Zess Special", "Zess Deluxe", "Zess Dynamite", "Zess Tea", "Space Food", "Icicle Pop", "Zess Frappe", "Snow Bunny", "Coconut Bomb", "Courage Meal", "Shroom Cake", "Shroom Crepe", "Mousse Cake", "Fried Egg", "Fruit Parfait", "Egg Bomb", "Ink Pasta", "Spaghetti", "Shroom Broth", "Poison Shroom", "Choco Cake", "Mango Delight", "Love Pudding", "Meteor Meal", "Trial Stew", "Couple's Cake", "Inky Sauce", "Omelette Meal", "Koopa Tea", "Koopasta", "Spicy Pasta", "Heartful Cake", "Peach Tart", "Electro Pop", "Fire Pop", "Honey Candy", "Coco Candy", "Jelly Candy", "Zess Cookie", "Healthy Salad", "Koopa Bun", "Fresh Juice", "Audience Can", "Audience Rock", "Audience Bone", "Audience Hammer", "Power Jump", "Multibounce", "Power Bounce", "Tornado Jump", "Shrink Stomp", "Sleepy Stomp", "Soft Stomp", "Power Smash", "Quake Hammer", "Hammer Throw", "Piercing Blow", "Head Rattle", "Fire Drive", "Ice Smash", "Double Dip", "Double Dip P", "Charge", "Charge P", "Super Appeal", "Super Appeal P", "Power Plus", "Power Plus P", "P-Up D-Down", "P-Up D-Down P", "All or Nothing", "All or Nothing P", "Mega Rush", "Mega Rush P", "Power Rush", "Power Rush P", "P-Down D-Up", "P-Down D-Up P", "Last Stand", "Last Stand P", "Defend Plus", "Defend Plus P", "Damage Dodge", "Damage Dodge P", "HP Plus", "HP Plus P", "FP Plus", "Flower Saver", "Flower Saver P", "Ice Power", "Spike Shield", "Feeling Fine", "Feeling Fine P", "Zap Tap", "Double Pain", "Jumpman", "Hammerman", "Return Postage", "Happy Heart", "Happy Heart P", "Happy Flower", "HP Drain", "HP Drain P", "FP Drain", "FP Drain P", "Close Call", "Close Call P", "Pretty Lucky", "Pretty Lucky P", "Lucky Day", "Lucky Day P", "Refund", "Pity Flower", "Pity Flower P", "Quick Change", "Peekaboo", "Timing Tutor", "Heart Finder", "Flower Finder", "Money Money", "Item Hog", "Attack FX R", "Attack FX B", "Attack FX G", "Attack FX Y", "Attack FX P", "Chill Out", "First Attack", "Bump Attack", "Slow Go", "Simplifier", "Unsimplifier", "Lucky Start", "L Emblem", "W Emblem", "Triple Dip", "Lucky Start P", "Debug Badge", "Mega Jump", "Mega Smash", "Mega Quake", "Unused Defend Badge", "Unused Defend Badge P", "Super Charge", "Super Charge P"],
+            "Offsets": [3201192, 3201232, 3201272, 3201312, 3201352, 3201392, 3201432, 3201472, 3201512, 3201552, 3201592, 3201632, 3201672, 3201712, 3201752, 3201792, 3201832, 3201872, 3201912, 3201952, 3201992, 3202032, 3202072, 3202112, 3202152, 3202192, 3202232, 3202272, 3202312, 3202352, 3202392, 3202432, 3202472, 3202512, 3202552, 3202592, 3202632, 3202672, 3202712, 3202752, 3202792, 3202832, 3202872, 3202912, 3202952, 3202992, 3203032, 3203072, 3203112, 3203152, 3203192, 3203232, 3203272, 3203312, 3203352, 3203392, 3203432, 3203472, 3203512, 3203552, 3203592, 3203632, 3203672, 3203712, 3203752, 3203792, 3203832, 3203872, 3203912, 3203952, 3203992, 3204032, 3204072, 3204112, 3204152, 3204192, 3204232, 3204272, 3204312, 3204352, 3204392, 3204432, 3204472, 3204512, 3204552, 3204592, 3204632, 3204672, 3204712, 3204752, 3204792, 3204832, 3204872, 3204912, 3204952, 3204992, 3205032, 3205072, 3205112, 3205152, 3205192, 3205232, 3205272, 3205312, 3205352, 3205392, 3205432, 3205472, 3205512, 3205552, 3205592, 3205632, 3205672, 3205712, 3205752, 3205792, 3205832, 3205872, 3205912, 3205952, 3205992, 3206032, 3206072, 3206112, 3206152, 3206192, 3206232, 3206272, 3206312, 3206352, 3206392, 3206432, 3206472, 3206512, 3206552, 3206592, 3206632, 3206672, 3206712, 3206752, 3206792, 3206832, 3206872, 3206912, 3206952, 3206992, 3207032, 3207072, 3207112, 3207152, 3207192, 3207232, 3207272, 3207312, 3207352, 3207392, 3207432, 3207472, 3207512, 3207552, 3207592, 3207632, 3207672, 3207712, 3207752, 3207792, 3207832, 3207872, 3207912, 3207952, 3207992, 3208032, 3208072, 3208112, 3208152, 3208192, 3208232, 3208272, 3208312, 3208352, 3208392, 3208432, 3208472, 3208512, 3208552, 3208592, 3208632, 3208672, 3208712, 3208752, 3208792, 3208832, 3208872, 3208912, 3208952, 3208992, 3209032, 3209072, 3209112, 3209152, 3209192, 3209232, 3209272, 3209312, 3209352, 3209392, 3209432, 3209472, 3209512, 3209552, 3209592, 3209632, 3209672, 3209712, 3209752, 3209792, 3209832, 3209872, 3209912, 3209952, 3209992, 3210032, 3210072, 3210112, 3210152, 3210192, 3210232, 3210272, 3210312, 3210352, 3210392, 3210432, 3210472, 3210512, 3210552, 3210592, 3210632, 3210672, 3210712, 3210752, 3210792, 3210832, 3210872, 3210912, 3210952, 3210992, 3211032, 3211072, 3211112, 3211152, 3211192, 3211232, 3211272, 3211312, 3211352, 3211392, 3211432, 3211472, 3211512, 3211552, 3211592, 3211632, 3211672, 3211712, 3211752, 3211792, 3211832, 3211872, 3211912, 3211952, 3211992, 3212032, 3212072, 3212112, 3212152, 3212192, 3212232, 3212272, 3212312, 3212352, 3212392, 3212432, 3212472, 3212512, 3212552, 3212592, 3212632, 3212672, 3212712, 3212752, 3212792, 3212832, 3212872, 3212912, 3212952, 3212992, 3213032, 3213072, 3213112, 3213152, 3213192, 3213232, 3213272, 3213312, 3213352, 3213392, 3213432, 3213472, 3213512, 3213552, 3213592, 3213632, 3213672, 3213712, 3213752, 3213792, 3213832, 3213872, 3213912, 3213952, 3213992, 3214032, 3214072, 3214112, 3214152, 3214192, 3214232, 3214272, 3214312, 3214352, 3214392, 3214432, 3214472, 3214512, 3214552, 3214592, 3214632, 3214672, 3214712],
+            "ShopTables":
+            [
+                {
+                    "Name": "Item Hog Table",
+                    "Type": "Shop",
+                    "Size": 25,
+                    "Offset": 3062336
+                },
+                {
+                    "Name": "Mystery Table",
+                    "Type": "Shop",
+                    "Size": 17,
+                    "Offset": 3570500
+                },
+                {
+                    "Name": "Dazzle Table",
+                    "Type": "Shop",
+                    "Size": 15,
+                    "Offset": 3842104
+                },
+                {
+                    "Name": "Charlieton Rogueport Table",
+                    "Type": "Shop",
+                    "Size": 16,
+                    "Offset": 3842168
+                },
+                {
+                    "Name": "Prologue Badge Shop Table",
+                    "Type": "Shop",
+                    "Size": 9,
+                    "Offset": 3961296
+                },
+                {
+                    "Name": "Post-1 Badge Shop Table",
+                    "Type": "Shop",
+                    "Size": 3,
+                    "Offset": 3961336
+                },
+                {
+                    "Name": "Post-2 Badge Shop Table",
+                    "Type": "Shop",
+                    "Size": 3,
+                    "Offset": 3961352
+                },
+                {
+                    "Name": "Post-3 Badge Shop Table",
+                    "Type": "Shop",
+                    "Size": 3,
+                    "Offset": 3961368
+                },
+                {
+                    "Name": "Post-4 Badge Shop Table",
+                    "Type": "Shop",
+                    "Size": 3,
+                    "Offset": 3961384
+                },
+                {
+                    "Name": "Post-5 Badge Shop Table",
+                    "Type": "Shop",
+                    "Size": 3,
+                    "Offset": 3961400
+                },
+                {
+                    "Name": "Post-6 Badge Shop Table",
+                    "Type": "Shop",
+                    "Size": 3,
+                    "Offset": 3961416
+                },
+                {
+                    "Name": "Charlieton Pit Table",
+                    "Type": "Shop",
+                    "Size": 6,
+                    "Offset": 3961432
+                },
+                {
+                    "Name": "Pianta Parlor Table",
+                    "Type": "Shop",
+                    "Size": 4,
+                    "Offset": 3961460
+                },
+                {
+                    "Name": "Pianta Parlor Special Card Table",
+                    "Type": "Shop",
+                    "Size": 4,
+                    "Offset": 3961480
+                },
+                {
+                    "Name": "Pianta Parlor Silver Card Table",
+                    "Type": "Shop",
+                    "Size": 4,
+                    "Offset": 3961500
+                },
+                {
+                    "Name": "Pianta Parlor Gold Card Table",
+                    "Type": "Shop",
+                    "Size": 4,
+                    "Offset": 3961520
+                },
+                {
+                    "Name": "Pianta Parlor Platinum Card Table",
+                    "Type": "Shop",
+                    "Size": 4,
+                    "Offset": 3961540
+                },
+                {
+                    "Name": "Toad Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 11,
+                    "Offset": 3873796
+                },
+                {
+                    "Name": "Shy Guy Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 16,
+                    "Offset": 3873892
+                },
+                {
+                    "Name": "Puni Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 10,
+                    "Offset": 3874028
+                },
+                {
+                    "Name": "Koopa Troopa Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 7,
+                    "Offset": 3874116
+                },
+                {
+                    "Name": "Luigi Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 11,
+                    "Offset": 3874180
+                },
+                {
+                    "Name": "X-Naut Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 2,
+                    "Offset": 3976888
+                },
+                {
+                    "Name": "Boo Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 2,
+                    "Offset": 3976912
+                },
+                {
+                    "Name": "Hammer Bro Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 1,
+                    "Offset": 3976960
+                },
+                {
+                    "Name": "Dull Bones Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 3,
+                    "Offset": 3976976
+                },
+                {
+                    "Name": "Crazee Dayzee Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 1,
+                    "Offset": 3977008
+                },
+                {
+                    "Name": "Bulky Bob-omb Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 1,
+                    "Offset": 3977016
+                },
+                {
+                    "Name": "Goomba Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 2,
+                    "Offset": 3977024
+                },
+                {
+                    "Name": "Piranha Plant Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 1,
+                    "Offset": 3977048
+                }
+            ]
+        },
+        {
+            "Name": "Start.dol",
+            "Items": ["Nothing", "Strange Sack", "Paper Curse", "Tube Curse", "Plane Curse", "Boat Curse", "Boots", "Super Boots", "Ultra Boots", "Hammer", "Super Hammer", "Ultra Hammer", "Castle Key 1", "Castle Key 2", "Castle Key 3", "Castle Key 4", "Red Key", "Blue Key", "Storage Key 1", "Storage Key 2", "Grotto Key", "Shop Key", "Steeple Key 1", "Steeple Key 2", "Station Key 1", "Station Key 2", "Elevator Key 1", "Elevator Key 2", "Elevator Key 3", "Card Key 1", "Card Key 2", "Card Key 3", "Card Key 4", "Black Key 1", "Black Key 2", "Black Key 3", "Black Key 4", "Star Key", "Palace Key 1", "Palace Key 2", "Palace Key 3", "Palace Key 4", "Palace Key 5", "Palace Key 6", "Palace Key 7", "Palace Key 8", "Palace Key 9", "Palace Key 10", "Palace Key 11", "House Key", "Magical Map", "Contact Lens", "Blimp Ticket", "Train Ticket", "Mailbox SP", "Super Luigi", "Super Luigi 2", "Super Luigi 3", "Super Luigi 4", "Super Luigi 5", "Cookbook", "Moon Stone", "Sun Stone", "Necklace", "Puni Orb", "Champ's Belt", "Poisoned Cake", "Superbombomb", "The Letter \"P\"", "Old Letter", "Chuckola Cola", "Skull Gem", "Gate Handle", "Wedding Ring", "Galley Pot", "Gold Ring", "Shell Earrings", "Autograph", "Ragged Diary", "Blanket", "Vital Paper", "Briefcase", "Goldbob Guide", "Unused Goldbob Guide 1", "Unused Goldbob Guide 2", "Cog", "Data Disk", "Shine Sprite", "Ultra Stone", "Bowser Upgrade Meat", "Mario Wanted Poster", "Special Card", "Platinum Card", "Gold Card", "Silver Card", "Box", "Magical Map (Larger)", "Dubious Paper", "Routing Slip", "Wrestling Magazine", "Present", "Blue Potion", "Red Potion", "Orange Potion", "Green Potion", "???", "Lottery Pick", "Battle Trunks", "Up Arrow", "Package", "Attack FX B", "???", "???", "???", "Diamond Star", "Emerald Star", "Gold Star", "Ruby Star", "Sapphire Star", "Garnet Star", "Crystal Star", "Coin", "Pianta", "Heart Pickup", "Flower Pickup", "Star Piece", "Gold Bar", "Gold Bar x3", "Thunder Bolt", "Thunder Rage", "Shooting Star", "Ice Storm", "Fire Flower", "Earth Quake", "Boo's Sheet", "Volt Shroom", "Repel Cape", "Ruin Powder", "Sleepy Sheep", "POW Block", "Stopwatch", "Dizzy Dial", "Power Punch", "Courage Shell", "HP Drain", "Trade Off", "Mini Mr. Mini", "Mr. Softener", "Mushroom", "Super Shroom", "Ultra Shroom", "Life Shroom", "Dried Shroom", "Tasty Tonic", "Honey Syrup", "Maple Syrup", "Jammin' Jelly", "Slow Shroom", "Gradual Syrup", "Hot Dog", "Cake", "Point Swap", "Fright Mask", "Mystery", "Inn Coupon", "Whacka Bump", "Coconut", "Dried Bouquet", "Mystic Egg", "Golden Leaf", "Keel Mango", "Fresh Pasta", "Cake Mix", "Hot Sauce", "Turtley Leaf", "Horsetail", "Peachy Peach", "Spite Pouch", "Koopa Curse", "Shroom Fry", "Shroom Roast", "Shroom Steak", "Mistake", "Honey Shroom", "Maple Shroom", "Jelly Shroom", "Honey Super", "Maple Super", "Jelly Super", "Honey Ultra", "Maple Ultra", "Jelly Ultra", "Spicy Soup", "Zess Dinner", "Zess Special", "Zess Deluxe", "Zess Dynamite", "Zess Tea", "Space Food", "Icicle Pop", "Zess Frappe", "Snow Bunny", "Coconut Bomb", "Courage Meal", "Shroom Cake", "Shroom Crepe", "Mousse Cake", "Fried Egg", "Fruit Parfait", "Egg Bomb", "Ink Pasta", "Spaghetti", "Shroom Broth", "Poison Shroom", "Choco Cake", "Mango Delight", "Love Pudding", "Meteor Meal", "Trial Stew", "Couple's Cake", "Inky Sauce", "Omelette Meal", "Koopa Tea", "Koopasta", "Spicy Pasta", "Heartful Cake", "Peach Tart", "Electro Pop", "Fire Pop", "Honey Candy", "Coco Candy", "Jelly Candy", "Zess Cookie", "Healthy Salad", "Koopa Bun", "Fresh Juice", "Audience Can", "Audience Rock", "Audience Bone", "Audience Hammer", "Power Jump", "Multibounce", "Power Bounce", "Tornado Jump", "Shrink Stomp", "Sleepy Stomp", "Soft Stomp", "Power Smash", "Quake Hammer", "Hammer Throw", "Piercing Blow", "Head Rattle", "Fire Drive", "Ice Smash", "Double Dip", "Double Dip P", "Charge", "Charge P", "Super Appeal", "Super Appeal P", "Power Plus", "Power Plus P", "P-Up D-Down", "P-Up D-Down P", "All or Nothing", "All or Nothing P", "Mega Rush", "Mega Rush P", "Power Rush", "Power Rush P", "P-Down D-Up", "P-Down D-Up P", "Last Stand", "Last Stand P", "Defend Plus", "Defend Plus P", "Damage Dodge", "Damage Dodge P", "HP Plus", "HP Plus P", "FP Plus", "Flower Saver", "Flower Saver P", "Ice Power", "Spike Shield", "Feeling Fine", "Feeling Fine P", "Zap Tap", "Double Pain", "Jumpman", "Hammerman", "Return Postage", "Happy Heart", "Happy Heart P", "Happy Flower", "HP Drain", "HP Drain P", "FP Drain", "FP Drain P", "Close Call", "Close Call P", "Pretty Lucky", "Pretty Lucky P", "Lucky Day", "Lucky Day P", "Refund", "Pity Flower", "Pity Flower P", "Quick Change", "Peekaboo", "Timing Tutor", "Heart Finder", "Flower Finder", "Money Money", "Item Hog", "Attack FX R", "Attack FX B", "Attack FX G", "Attack FX Y", "Attack FX P", "Chill Out", "First Attack", "Bump Attack", "Slow Go", "Simplifier", "Unsimplifier", "Lucky Start", "L Emblem", "W Emblem", "Triple Dip", "Lucky Start P", "Debug Badge", "Mega Jump", "Mega Smash", "Mega Quake", "Unused Defend Badge", "Unused Defend Badge P", "Super Charge", "Super Charge P"],
+            "Offsets": [3201192, 3201232, 3201272, 3201312, 3201352, 3201392, 3201432, 3201472, 3201512, 3201552, 3201592, 3201632, 3201672, 3201712, 3201752, 3201792, 3201832, 3201872, 3201912, 3201952, 3201992, 3202032, 3202072, 3202112, 3202152, 3202192, 3202232, 3202272, 3202312, 3202352, 3202392, 3202432, 3202472, 3202512, 3202552, 3202592, 3202632, 3202672, 3202712, 3202752, 3202792, 3202832, 3202872, 3202912, 3202952, 3202992, 3203032, 3203072, 3203112, 3203152, 3203192, 3203232, 3203272, 3203312, 3203352, 3203392, 3203432, 3203472, 3203512, 3203552, 3203592, 3203632, 3203672, 3203712, 3203752, 3203792, 3203832, 3203872, 3203912, 3203952, 3203992, 3204032, 3204072, 3204112, 3204152, 3204192, 3204232, 3204272, 3204312, 3204352, 3204392, 3204432, 3204472, 3204512, 3204552, 3204592, 3204632, 3204672, 3204712, 3204752, 3204792, 3204832, 3204872, 3204912, 3204952, 3204992, 3205032, 3205072, 3205112, 3205152, 3205192, 3205232, 3205272, 3205312, 3205352, 3205392, 3205432, 3205472, 3205512, 3205552, 3205592, 3205632, 3205672, 3205712, 3205752, 3205792, 3205832, 3205872, 3205912, 3205952, 3205992, 3206032, 3206072, 3206112, 3206152, 3206192, 3206232, 3206272, 3206312, 3206352, 3206392, 3206432, 3206472, 3206512, 3206552, 3206592, 3206632, 3206672, 3206712, 3206752, 3206792, 3206832, 3206872, 3206912, 3206952, 3206992, 3207032, 3207072, 3207112, 3207152, 3207192, 3207232, 3207272, 3207312, 3207352, 3207392, 3207432, 3207472, 3207512, 3207552, 3207592, 3207632, 3207672, 3207712, 3207752, 3207792, 3207832, 3207872, 3207912, 3207952, 3207992, 3208032, 3208072, 3208112, 3208152, 3208192, 3208232, 3208272, 3208312, 3208352, 3208392, 3208432, 3208472, 3208512, 3208552, 3208592, 3208632, 3208672, 3208712, 3208752, 3208792, 3208832, 3208872, 3208912, 3208952, 3208992, 3209032, 3209072, 3209112, 3209152, 3209192, 3209232, 3209272, 3209312, 3209352, 3209392, 3209432, 3209472, 3209512, 3209552, 3209592, 3209632, 3209672, 3209712, 3209752, 3209792, 3209832, 3209872, 3209912, 3209952, 3209992, 3210032, 3210072, 3210112, 3210152, 3210192, 3210232, 3210272, 3210312, 3210352, 3210392, 3210432, 3210472, 3210512, 3210552, 3210592, 3210632, 3210672, 3210712, 3210752, 3210792, 3210832, 3210872, 3210912, 3210952, 3210992, 3211032, 3211072, 3211112, 3211152, 3211192, 3211232, 3211272, 3211312, 3211352, 3211392, 3211432, 3211472, 3211512, 3211552, 3211592, 3211632, 3211672, 3211712, 3211752, 3211792, 3211832, 3211872, 3211912, 3211952, 3211992, 3212032, 3212072, 3212112, 3212152, 3212192, 3212232, 3212272, 3212312, 3212352, 3212392, 3212432, 3212472, 3212512, 3212552, 3212592, 3212632, 3212672, 3212712, 3212752, 3212792, 3212832, 3212872, 3212912, 3212952, 3212992, 3213032, 3213072, 3213112, 3213152, 3213192, 3213232, 3213272, 3213312, 3213352, 3213392, 3213432, 3213472, 3213512, 3213552, 3213592, 3213632, 3213672, 3213712, 3213752, 3213792, 3213832, 3213872, 3213912, 3213952, 3213992, 3214032, 3214072, 3214112, 3214152, 3214192, 3214232, 3214272, 3214312, 3214352, 3214392, 3214432, 3214472, 3214512, 3214552, 3214592, 3214632, 3214672, 3214712],
+            "ShopTables":
+            [
+                {
+                    "Name": "Item Hog Table",
+                    "Type": "Shop",
+                    "Size": 25,
+                    "Offset": 3062336
+                },
+                {
+                    "Name": "Mystery Table",
+                    "Type": "Shop",
+                    "Size": 17,
+                    "Offset": 3570500
+                },
+                {
+                    "Name": "Dazzle Table",
+                    "Type": "Shop",
+                    "Size": 15,
+                    "Offset": 3842104
+                },
+                {
+                    "Name": "Charlieton Rogueport Table",
+                    "Type": "Shop",
+                    "Size": 16,
+                    "Offset": 3842168
+                },
+                {
+                    "Name": "Prologue Badge Shop Table",
+                    "Type": "Shop",
+                    "Size": 9,
+                    "Offset": 3961296
+                },
+                {
+                    "Name": "Post-1 Badge Shop Table",
+                    "Type": "Shop",
+                    "Size": 3,
+                    "Offset": 3961336
+                },
+                {
+                    "Name": "Post-2 Badge Shop Table",
+                    "Type": "Shop",
+                    "Size": 3,
+                    "Offset": 3961352
+                },
+                {
+                    "Name": "Post-3 Badge Shop Table",
+                    "Type": "Shop",
+                    "Size": 3,
+                    "Offset": 3961368
+                },
+                {
+                    "Name": "Post-4 Badge Shop Table",
+                    "Type": "Shop",
+                    "Size": 3,
+                    "Offset": 3961384
+                },
+                {
+                    "Name": "Post-5 Badge Shop Table",
+                    "Type": "Shop",
+                    "Size": 3,
+                    "Offset": 3961400
+                },
+                {
+                    "Name": "Post-6 Badge Shop Table",
+                    "Type": "Shop",
+                    "Size": 3,
+                    "Offset": 3961416
+                },
+                {
+                    "Name": "Charlieton Pit Table",
+                    "Type": "Shop",
+                    "Size": 6,
+                    "Offset": 3961432
+                },
+                {
+                    "Name": "Pianta Parlor Table",
+                    "Type": "Shop",
+                    "Size": 4,
+                    "Offset": 3961460
+                },
+                {
+                    "Name": "Pianta Parlor Special Card Table",
+                    "Type": "Shop",
+                    "Size": 4,
+                    "Offset": 3961480
+                },
+                {
+                    "Name": "Pianta Parlor Silver Card Table",
+                    "Type": "Shop",
+                    "Size": 4,
+                    "Offset": 3961500
+                },
+                {
+                    "Name": "Pianta Parlor Gold Card Table",
+                    "Type": "Shop",
+                    "Size": 4,
+                    "Offset": 3961520
+                },
+                {
+                    "Name": "Pianta Parlor Platinum Card Table",
+                    "Type": "Shop",
+                    "Size": 4,
+                    "Offset": 3961540
+                },
+                {
+                    "Name": "Toad Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 11,
+                    "Offset": 3873796
+                },
+                {
+                    "Name": "Shy Guy Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 16,
+                    "Offset": 3873892
+                },
+                {
+                    "Name": "Puni Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 10,
+                    "Offset": 3874028
+                },
+                {
+                    "Name": "Koopa Troopa Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 7,
+                    "Offset": 3874116
+                },
+                {
+                    "Name": "Luigi Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 11,
+                    "Offset": 3874180
+                },
+                {
+                    "Name": "X-Naut Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 2,
+                    "Offset": 3976888
+                },
+                {
+                    "Name": "Boo Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 2,
+                    "Offset": 3976912
+                },
+                {
+                    "Name": "Hammer Bro Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 1,
+                    "Offset": 3976960
+                },
+                {
+                    "Name": "Dull Bones Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 3,
+                    "Offset": 3976976
+                },
+                {
+                    "Name": "Crazee Dayzee Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 1,
+                    "Offset": 3977008
+                },
+                {
+                    "Name": "Bulky Bob-omb Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 1,
+                    "Offset": 3977016
+                },
+                {
+                    "Name": "Goomba Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 2,
+                    "Offset": 3977024
+                },
+                {
+                    "Name": "Piranha Plant Audience Throw Table",
+                    "Type": "Audience",
+                    "Size": 1,
+                    "Offset": 3977048
+                }
+            ]
+        },
+        {
+            "Name": "bom.rel",
+            "ShopTables":
+            [
+                {
+                    "Name": "Northwinds Mart Table",
+                    "Size": 6,
+                    "Offset": 70004
+                }
+            ]
+        },
+        {
+            "Name": "gor.rel",
+            "ShopTables":
+            [
+                {
+                    "Name": "Toad Bros. Bazaar Table 1",
+                    "Size": 6,
+                    "Offset": 224348
+                },
+                {
+                    "Name": "Toad Bros. Bazaar Table 2",
+                    "Size": 6,
+                    "Offset": 224396
+                },
+                {
+                    "Name": "Toad Bros. Bazaar Table 3",
+                    "Size": 6,
+                    "Offset": 224444
+                },
+                {
+                    "Name": "Toad Bros. Bazaar Table 4",
+                    "Size": 6,
+                    "Offset": 224492
+                },
+                {
+                    "Name": "Toad Bros. Bazaar Table 5",
+                    "Size": 6,
+                    "Offset": 224540
+                },
+                {
+                    "Name": "Toad Bros. Bazaar Table 6",
+                    "Size": 6,
+                    "Offset": 224588
+                },
+                {
+                    "Name": "Toad Bros. Bazaar Table 7",
+                    "Size": 6,
+                    "Offset": 224636
+                },
+                {
+                    "Name": "Westside Goods Table",
+                    "Size": 6,
+                    "Offset": 359280
+                }
+            ]
+        },
+        {
+            "Name": "mri.rel",
+            "ShopTables":
+            [
+                {
+                    "Name": "Pungent's Great Tree Shop Table",
+                    "Size": 6,
+                    "Offset": 266152
+                }
+            ]
+        },
+        {
+            "Name": "muj.rel",
+            "ShopTables":
+            [
+                {
+                    "Name": "Keelhaul Galleria Table",
+                    "Size": 6,
+                    "Offset": 138264
+                }
+            ]
+        },
+        {
+            "Name": "nok.rel",
+            "ShopTables":
+            [
+                {
+                    "Name": "Niff T.'s Shop Table",
+                    "Size": 6,
+                    "Offset": 15380
+                }
+            ]
+        },
+        {
+            "Name": "rsh.rel",
+            "ShopTables":
+            [
+                {
+                    "Name": "Sales Stall Table",
+                    "Size": 6,
+                    "Offset": 145264
+                }
+            ]
+        },
+        {
+            "Name": "tik.rel",
+            "ShopTables":
+            [
+                {
+                    "Name": "Deepdown Depot Table",
+                    "Size": 6,
+                    "Offset": 56728
+                }
+            ]
+        },
+        {
+            "Name": "tou.rel",
+            "ShopTables":
+            [
+                {
+                    "Name": "Souvenir Shop Table",
+                    "Size": 6,
+                    "Offset": 110292
+                }
+            ]
+        },
+        {
+            "Name": "usu.rel",
+            "ShopTables":
+            [
+                {
+                    "Name": "Twilight Shop Table",
+                    "Size": 6,
+                    "Offset": 89064
+                }
+            ]
+        }
+    ]
+}
