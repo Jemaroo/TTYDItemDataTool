@@ -5,6 +5,8 @@ A tool to modify ttyd's item stats
 
 ## Updates
 
+UPDATED v1.4.2 (9/19/25): Added a field to see what the pianta price would be for items when editing buy price
+
 UPDATED v1.4.1 (9/18/25): Fixed a bug where gor.rel wouldn't export correctly.
 
 UPDATED v1.4.0 (8/8/25): Added a popup on startup if a new update is available, modified some buttons on the GUI, modified the File selector to show Location Names when selecting a file, implemented Shop Sell Prices, exporting a file will now save a backup of the old file in the backups folder before saving a new file, and fixed a bug where the mystery table was larger than it should be.
