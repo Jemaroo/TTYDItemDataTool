@@ -5,7 +5,9 @@ A tool to modify ttyd's item stats
 
 ## Updates
 
-UPDATED v1.4.2 (9/19/25): Added a field to see what the pianta price would be for items when editing buy price
+UPDATED v1.5.0 (1/10/26): Added Shop Point Rewards to the Shop Tables List.
+
+UPDATED v1.4.2 (9/19/25): Added a field to see what the pianta price would be for items when editing buy price.
 
 UPDATED v1.4.1 (9/18/25): Fixed a bug where gor.rel wouldn't export correctly.
 
